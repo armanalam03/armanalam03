@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨🏼‍🎓 Hi! I’m Armaan.
-- 🌱 I’m currently exploring WebSockets and real-time web applications.
+- 🌱 Currently in love with Nextjs.
 - 👯 I’m looking to collaborate on any full stack projects.
 - 📫 How to reach me:
   - Gmail: armanalam032001@gmail.com
