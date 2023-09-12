@@ -18,6 +18,9 @@ Production link: [My Portfolio](https://armaanalam.vercel.app)
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,django,typescript,javascript,cpp,python,html,css,tensorflow&theme=dark)]()
 
+## My Stats
+[![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanalam03&show_icons=true&theme=dark)]()
+
 <!--
 **armanalam03/armanalam03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
